@@ -5,7 +5,6 @@ Arduino library that connects with a Wii controllers
 
 - STM32F103C8T6 minimum Development Board(BluePill)
 - Arduino IDE (Version: 1.8.5)
-- Wii Classic Controller : RVL-005(02)
 
 ## Installation
 1. Download the zip file.
@@ -13,6 +12,9 @@ Arduino library that connects with a Wii controllers
 3. In the Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library.
 4. Select the zip file.
 
+## Supported Devices
+
+- Wii Classic Pro Controller : RVL-005
 
 ##  Pin connections
 

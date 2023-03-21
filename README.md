@@ -3,7 +3,7 @@ Arduino library that connects with a Wii controllers
 
 ## Requirement
 
-- [STM32F103C8T6 minimum Development Board(BluePill)](https://www.aitendo.com/product/13348)
+- STM32F103C8T6 minimum Development Board(BluePill)
 - Arduino IDE (Version: 1.8.5)
 - Wii Classic Controller : RVL-005(02)
 

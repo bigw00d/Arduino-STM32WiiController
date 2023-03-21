@@ -25,8 +25,7 @@ Arduino library that connects with a Wii controllers
 
 ## Examples
 
-```
-### Example use wii classic controller as mouse
+### Use wii classic controller as a mouse
 
 ```ESP32WiimoteDemo.ino.cpp
 #include <USBComposite.h>
@@ -89,9 +88,9 @@ void loop() {
 'pushButton' is expressed as OR of bits:
 
 ```
-  BUTTON_A          = 0x1000,
-  BUTTON_B          = 0x4000,
-  BUTTON_HOME       = 0x0080,
+  BUTTON_A          = 0x1000
+  BUTTON_B          = 0x4000
+  BUTTON_HOME       = 0x0080
 ```
 
 ## Licence

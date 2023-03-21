@@ -52,7 +52,7 @@ void loop() {
       }
 
       if (pushButton & 0x0008) { //HOME
-        Keyboard.print("1280");
+        Keyboard.print("HOME");
       }
 
       oldPushButton = pushButton;
